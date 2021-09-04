@@ -1,5 +1,5 @@
-### Hi there I am Biancaa.R👋
-
+### Hi there I am Biancaa.R <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<break>
 <!--
 **Biancaa-R/Biancaa-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...-->
+
 
 - 🔭 I’m currently working on python ,Mysql ,c++ ,html
 - 🌱 I’m currently learning python mysql,c
@@ -16,3 +17,5 @@ Here are some ideas to get you started:
      Hard work pays off, It always has and it always will...
 - 🍧 I like icecream...
 - (❁´◡`❁)
+     
+    
