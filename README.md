@@ -8,15 +8,17 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...-->
 
-
 - 🔭 I’m currently working on python ,Mysql ,c++ ,html
-- 🌱 I’m currently learning python mysql,c
-- 🤔 I’m looking for help with python modules
-- 😄 Pronouns: she,her
+- 🌱 I’m currently learning python mysql.
+- 🤔 👩‍💻 I’m looking for help with python modules.
+- 😄 Pronouns: she
 - ⚡ Fun fact: Whatever you believe you can achieve,
      Hard work pays off, It always has and it always will...
-- 🍧 I like icecream...
+- 🍧 I like icecream..
+- 🎀 I like to celebrate life...
+
 - (❁´◡`❁)
+<img width= "60%" src= "https://c.tenor.com/V7fH58eDwe4AAAAM/keep-choosing-joy-gifkaro.gif"/>
 
  [![Biancaa's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=Biancaa-R&theme=xcode)](https://git.io/Biancaa-R)
 ---
