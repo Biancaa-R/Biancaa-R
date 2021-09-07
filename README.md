@@ -1,6 +1,6 @@
 ### Hi there I am Biancaa.R <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<img width= "60%" src= "/>
+
 <!--
 **Biancaa-R/Biancaa-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,4 +30,7 @@ Here are some ideas to get you started:
  
 <p > <img src="https://komarev.com/ghpvc/?username=Biancaa-R&label=Profile%20views&color=0e75b6&style=flat" alt="Biancaa-R" /> </p>
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Biancaa-R" alt="Biancaa-R" /></a> </p> 
+ 
+ <img width= "100%" src= "https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"/>
+
 
