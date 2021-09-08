@@ -9,7 +9,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...-->
 
-- 🔭 I’m currently working on python ,Mysql ,c++ ,html, css,c
+- 👩‍💼 I 'm currently working on python, MySQL.
+- 🔭 I’m familiar with python ,Mysql ,c++ ,html, css,c
 - 🌱 I’m currently learning python mysql, Tkinter, opencv.
 - 🤔 👩‍💻 I’m looking for help with python modules, Tkinter, opencv,flask.
 - 😄 Pronouns: she
@@ -28,7 +29,10 @@ Here are some ideas to get you started:
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Biancaa-R&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Biancaa-R&theme=radical" />
 </p>
- 
+
+ <img width= "60%" src= "https://c.tenor.com/65n_NXn9tvEAAAAM/awesome-grandma.gif"/>
+
+
 <p > <img src="https://komarev.com/ghpvc/?username=Biancaa-R&label=Profile%20views&color=0e75b6&style=flat" alt="Biancaa-R" /> </p>
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Biancaa-R" alt="Biancaa-R" /></a> </p> 
  
