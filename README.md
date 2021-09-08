@@ -9,14 +9,15 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...-->
 
-- 🔭 I’m currently working on python ,Mysql ,c++ ,html
-- 🌱 I’m currently learning python mysql.
-- 🤔 👩‍💻 I’m looking for help with python modules.
+- 🔭 I’m currently working on python ,Mysql ,c++ ,html, css,c
+- 🌱 I’m currently learning python mysql, Tkinter, opencv.
+- 🤔 👩‍💻 I’m looking for help with python modules, Tkinter, opencv,flask.
 - 😄 Pronouns: she
 - ⚡ Fun fact: Whatever you believe you can achieve,
      Hard work pays off, It always has and it always will...
 - 🍧 I like icecream..
 - 🎀 I like to celebrate life...
+- 🙆 I love to gaze mindlessly at white street lamps while travelling over a flyover at night 🌃
 
 - (❁´◡`❁)
 <img width= "60%" src= "https://c.tenor.com/V7fH58eDwe4AAAAM/keep-choosing-joy-gifkaro.gif"/>
