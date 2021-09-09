@@ -18,10 +18,11 @@ Here are some ideas to get you started:
      Hard work pays off, It always has and it always will...
 - 🍧 I like icecream..
 - 🎀 I like to celebrate life...
-- 🙆 I love to gaze mindlessly at white street lamps while travelling over a flyover at night 🌃 <img width= 30% src="https://c.tenor.com/1naX9HB10hcAAAAM/celebration-dance.gif">
+- 🙆 I love to gaze mindlessly at white street lamps while travelling over a flyover at night  <img width= 30% src="https://c.tenor.com/1naX9HB10hcAAAAM/celebration-dance.gif">
 
 - (❁´◡`❁)
-<img width= "50%" src= "https://c.tenor.com/V7fH58eDwe4AAAAM/keep-choosing-joy-gifkaro.gif"/>
+
+<img width= "50%" src= "https://c.tenor.com/V7fH58eDwe4AAAAM/keep-choosing-joy-gifkaro.gif"/> <img width=100% src="https://c.tenor.com/fix7H_e0v2MAAAAM/excited-dancing.gif">
 
  [![Biancaa's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=Biancaa-R&theme=xcode)](https://git.io/Biancaa-R)
 ---
@@ -30,7 +31,7 @@ Here are some ideas to get you started:
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Biancaa-R&theme=radical" />
 </p>
 
- <img width= "60%" src= "https://c.tenor.com/65n_NXn9tvEAAAAM/awesome-grandma.gif"/>
+ <img width= "60%" src= "https://c.tenor.com/65n_NXn9tvEAAAAM/awesome-grandma.gif"/> 
 
 
 <p > <img src="https://komarev.com/ghpvc/?username=Biancaa-R&label=Profile%20views&color=0e75b6&style=flat" alt="Biancaa-R" /> </p>
