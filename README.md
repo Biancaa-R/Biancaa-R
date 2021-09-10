@@ -18,8 +18,8 @@ Here are some ideas to get you started:
      Hard work pays off, It always has and it always will...
 - 🍧 I like icecream..
 - 🎀 I like to celebrate life...
-- 🙆 I love to gaze mindlessly at white street lamps while travelling over a flyover at night  <img width= 30% src="https://c.tenor.com/1naX9HB10hcAAAAM/celebration-dance.gif">
-
+- 🙆 I love to gaze mindlessly at white street lamps while travelling over a flyover at night  <!--<img width= 30% src="https://c.tenor.com/1naX9HB10hcAAAAM/celebration-dance.gif">
+-->
 - (❁´◡`❁)
 
 <img width= "50%" src= "https://c.tenor.com/V7fH58eDwe4AAAAM/keep-choosing-joy-gifkaro.gif"/> <img width=100% src="https://c.tenor.com/fix7H_e0v2MAAAAM/excited-dancing.gif">
