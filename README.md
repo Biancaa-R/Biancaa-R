@@ -19,14 +19,13 @@ Here are some ideas to get you started:
 - 🍧 I like icecream..
 - 🎀 I like to celebrate life...
 - 🙆 I love to gaze mindlessly at white street lamps while travelling over a flyover at night 
-
--  <!--<img width= 60% src="https://c.tenor.com/1naX9HB10hcAAAAM/celebration-dance.gif"> -->
+ <!--<img width= 60% src="https://c.tenor.com/1naX9HB10hcAAAAM/celebration-dance.gif"> -->
 - (❁´◡`❁)
 
 <img width= "50%" src= "https://c.tenor.com/V7fH58eDwe4AAAAM/keep-choosing-joy-gifkaro.gif"/> 
-- I am growing stronger day by day...
+<!-- I am growing stronger day by day...-->
 <img width=100% src="https://c.tenor.com/fix7H_e0v2MAAAAM/excited-dancing.gif">
-- I am really obsessed with cs, chemistry,physics,math...
+<!-- I am really obsessed with cs, chemistry,physics,math...-->
 
  [![Biancaa's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=Biancaa-R&theme=xcode)](https://git.io/Biancaa-R)
 ---
