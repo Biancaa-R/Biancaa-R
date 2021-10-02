@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 
 - 👩‍💼 I 'm currently working on python, MySQL.
 - 🔭 I’m familiar with python ,Mysql ,c++ ,html, css,c
-- 🌱 I’m currently learning python mysql, Tkinter, opencv.
-- 🤔 👩‍💻 I’m looking for help with python modules, Tkinter, opencv,flask.
+- 🌱 I’m currently learning python mysql, Tkinter, opencv.PyQt5
+- 🤔 👩‍💻 I’m looking for help with python modules, Tkinter, opencv,flask,PyQt5
 - 😄 Pronouns: she
 - ⚡ Fun fact: Whatever you believe you can achieve,
      Hard work pays off, It always has and it always will...
