@@ -12,10 +12,11 @@ Here are some ideas to get you started:
 - 👩‍💼 I 'm currently working on python, MySQL.
 - 🔭 I’m familiar with python ,Mysql ,c++ ,html, css,c
 - 🌱 I’m currently learning python mysql, Tkinter, opencv.PyQt5
-- 🤔 👩‍💻 I’m looking for help with python modules, Tkinter, opencv,flask,PyQt5
+- 💻 I’m looking for help with python modules, Tkinter, opencv,PyQt5
 - 😄 Pronouns: she
-- ⚡ Fun fact: Whatever you believe you can achieve,
-     Hard work pays off, It always has and it always will...
+- ⚡ Fun fact: Take a walk in the park when you feel down, There are so many things thats gonna lift you up...
+<!-- Whatever you believe you can achieve,
+     Hard work pays off, It always has and it always will...-->
 - 🍧 I like icecream..
 - 🎀 I like to celebrate life...
 - 🙆 I love to gaze mindlessly at white street lamps while travelling over a flyover at night 
