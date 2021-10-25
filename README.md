@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 🔭 I’m familiar with python ,Mysql ,c++ ,html, css,c
 - 🌱 I’m currently learning python mysql, Tkinter, opencv.PyQt5
 - 💻 I’m looking for help with python modules, Tkinter, opencv,PyQt5
+- 🍗 newly focussing on: Ruby,Java script,flutter
 - 😄 Pronouns: she
 - ⚡ Fun fact: Take a walk in the park when you feel down, There are so many things thats gonna lift you up...
 <!-- Whatever you believe you can achieve,
