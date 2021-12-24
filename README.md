@@ -1,4 +1,6 @@
-### Hi there I am Biancaa.R <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+<img width=100% src=https://github.com/Biancaa-R/Biancaa-R/blob/main/patch%201/Hi%20there!%20Its%20Biancaa%20here!%20(1).gif>
+<!--### Hi there I am Biancaa.R <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">-->
 
 
 <!--
@@ -8,7 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...-->
-
 - 👩‍💼 I 'm currently working on python, MySQL.
 - 🔭 I’m familiar with python ,Mysql ,c++ ,html, css,c
 - 🌱 I’m currently learning python mysql, Tkinter, opencv.PyQt5
@@ -28,14 +29,14 @@ Here are some ideas to get you started:
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Biancaa-R&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Biancaa-R&theme=radical" />
-   <img width="30%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Biancaa-R&theme=tokyonight&hide_langs_below=4' align="right" />
+  <img width="28%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Biancaa-R&theme=tokyonight&hide_langs_below=4' align="right" />
 </p>
 
  
 
 
 <p > <img src="https://komarev.com/ghpvc/?username=Biancaa-R&label=Profile%20views&color=0e75b6&style=flat" alt="Biancaa-R" /> </p>
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Biancaa-R" alt="Biancaa-R" /></a>  </p> 
+<img width=60% <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Biancaa-R" alt="Biancaa-R" /></a>  </p>
 
 
 
