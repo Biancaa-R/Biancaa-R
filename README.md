@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <!--<img src='https://github-readme-stats.vercel.app/api?username=Biancaa-R&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />-->
 
 <!-- [![Biancaa's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=Biancaa-R&theme=xcode)](https://git.io/Biancaa-R)-->
----
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Biancaa-R&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Biancaa-R&theme=radical" />
@@ -33,3 +33,4 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=Biancaa-R&label=Profile%20views&color=0e75b6&style=flat" alt="Biancaa-R" align="left"/> </p>
 <img width=60% <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Biancaa-R" alt="Biancaa-R" /></a>/>
 
+<img width="100%" src=https://github.com/Biancaa-R/Biancaa-R/blob/main/patch%201/hiya.gif>
