@@ -1,7 +1,7 @@
 
-<!--img width=100% src=https://github.com/Biancaa-R/Biancaa-R/blob/main/patch%201/Hi%20there!%20Its%20Biancaa%20here!%20(1).gif-->
+<img width=100% src=https://github.com/Biancaa-R/Biancaa-R/blob/main/patch%201/Hi%20there!%20Its%20Biancaa%20here!%20(1).gif>
 <!--### Hi there I am Biancaa.R <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">-->
-<img width=100% src=https://github.com/Biancaa-R/Biancaa-R/blob/main/patch%201/Throwback.gif>
+<!--img width=100% src=https://github.com/Biancaa-R/Biancaa-R/blob/main/patch%201/Throwback.gif-->
 
 <!--
 **Biancaa-R/Biancaa-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Biancaa-R&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Biancaa-R&theme=radical" />
-<!--<img width="30%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Biancaa-R&theme=tokyonight' align="right" />-->
+<img width="30%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Biancaa-R&theme=tokyonight' align="right" />
   <img src="https://komarev.com/ghpvc/?username=Biancaa-R&label=Profile%20views&color=0e75b6&style=flat"alt="Biancaa-R" align="left"/> </p>
 <img width=60% <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Biancaa-R" alt="Biancaa-R" /></a>/>
 
