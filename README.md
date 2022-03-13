@@ -33,4 +33,4 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=Biancaa-R&label=Profile%20views&color=0e75b6&style=flat"alt="Biancaa-R" align="left"/> </p>
 <img width=60% <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Biancaa-R" alt="Biancaa-R" /></a>/>
 
-<!--img width="100%" src=https://github.com/Biancaa-R/Biancaa-R/blob/main/patch%201/hiya.gif-->
+<img width="100%" src=https://github.com/Biancaa-R/Biancaa-R/blob/main/patch%201/hiya.gif>
