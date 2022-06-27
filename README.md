@@ -29,8 +29,11 @@ Here are some ideas to get you started:
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Biancaa-R&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Biancaa-R&theme=radical" />
-<!--img width="30%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Biancaa-R&theme=tokyonight' align="right" -->
+<!--img width="25%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Biancaa-R&theme=tokyonight'&langs_count="7" align="right" -->
+
+<p><img width="30%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biancaa-R&title_color=FF69B4&custom_title=Most_Used_Language&layout=compact&theme=highcontrast&langs_count=7"alt="Biancaa-R " /></p>
   <img src="https://komarev.com/ghpvc/?username=Biancaa-R&label=Profile%20views&color=0e75b6&style=flat"alt="Biancaa-R" align="left"/> </p>
 <img width=60% <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Biancaa-R" alt="Biancaa-R" /></a>/>
+
 
 <img width="100%" src=https://github.com/Biancaa-R/Biancaa-R/blob/main/patch%201/hiya.gif>
