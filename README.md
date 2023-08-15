@@ -1,8 +1,8 @@
 
-<!--img width=100% src=https://github.com/Biancaa-R/Biancaa-R/blob/main/patch%201/Hi%20there!%20Its%20Biancaa%20here!%20(1).gif-->
+<img width=100% src=https://github.com/Biancaa-R/Biancaa-R/blob/main/patch%201/Hi%20there!%20Its%20Biancaa%20here!%20(1).gif>
 <!--### Hi there I am Biancaa.R <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">-->
 <!--img width=100% src=https://github.com/Biancaa-R/Biancaa-R/blob/main/patch%201/Throwback.gif-->
-<img width=100% src= https://github.com/Biancaa-R/Biancaa-R/blob/main/patch%201/Travel%20Goals.gif>
+<!--img width=100% src= https://github.com/Biancaa-R/Biancaa-R/blob/main/patch%201/Travel%20Goals.gif-->
 <!--
 **Biancaa-R/Biancaa-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
