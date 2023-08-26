@@ -10,7 +10,7 @@
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...-->
+- 📫 How to reach me: ...
 - 👩‍💼 I 'm currently working on python, MySQL.
 - 🔭 I’m familiar with python ,Mysql ,c++ ,html, css,c
 - 🌱 I’m currently learning python mysql, Tkinter, opencv.PyQt5
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🍧 I like icecream..
 - 🎀 I like to celebrate life...
 - 🙆 I love to gaze mindlessly at white street lamps while travelling over a flyover at night 
-- (❁´◡`❁)
+- (❁´◡`❁)-->
 
 <!--<img src='https://github-readme-stats.vercel.app/api?username=Biancaa-R&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />-->
 
