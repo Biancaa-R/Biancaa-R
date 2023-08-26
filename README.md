@@ -2,9 +2,10 @@
 <!--img width=100% src=https://github.com/Biancaa-R/Biancaa-R/blob/main/patch%201/Hi%20there!%20Its%20Biancaa%20here!%20(1).gif-->
 <!--### Hi there I am Biancaa.R <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">-->
 <!--img width=100% src=https://github.com/Biancaa-R/Biancaa-R/blob/main/patch%201/Throwback.gif-->
-<img width=100% src= https://github.com/Biancaa-R/Biancaa-R/blob/main/patch%201/Travel%20Goals.gif>
-<!--
-**Biancaa-R/Biancaa-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--img width=100% src= https://github.com/Biancaa-R/Biancaa-R/blob/main/patch%201/Travel%20Goals.gif-->
+<img width=100% src=https://github.com/Biancaa-R/Biancaa-R/blob/main/patch%201/Timeline%20Cycle%20Visual%20Charts%20Presentation%20in%20Blue%20White%20Teal%20Simple%20Style.gif>
+
+<!--**Biancaa-R/Biancaa-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
@@ -14,7 +15,7 @@ Here are some ideas to get you started:
 - 🔭 I’m familiar with python ,Mysql ,c++ ,html, css,c
 - 🌱 I’m currently learning python mysql, Tkinter, opencv.PyQt5
 - 💻 I’m looking for help with python modules, Tkinter, opencv,PyQt5
-- 🍗 newly focussing on: Ruby,Java script,flutter
+- 🍗 newly focussing on: Java script,flutter
 - 😄 Pronouns: she
 - ⚡ Fun fact: Take a walk in the park when you feel down, There are so many things thats gonna lift you up...
 - 🍧 I like icecream..
