@@ -1,4 +1,6 @@
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little bit about me...  
+
 <!--img width=100% src=https://github.com/Biancaa-R/Biancaa-R/blob/main/patch%201/Hi%20there!%20Its%20Biancaa%20here!%20(1).gif-->
 <!--img width=100% src=https://github.com/Biancaa-R/Biancaa-R/blob/main/patch%201/Its.gif--> <!--The electronics one-->
 <!--### Hi there I am Biancaa.R <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">-->
@@ -40,3 +42,5 @@ Here are some ideas to get you started:
 
 
 <!--img width="100%" src=https://github.com/Biancaa-R/Biancaa-R/blob/main/patch%201/hiya.gif-->
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> :)</em>
