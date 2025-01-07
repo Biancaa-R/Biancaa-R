@@ -1,6 +1,6 @@
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> “Hope lives in those who believe in it.”.  
-
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> " I love to gaze mindlessly at white street lamps while travelling over a flyover at night .”.  
+<!-- “Hope lives in those who believe in it"-->
 <!--img width=100% src=https://github.com/Biancaa-R/Biancaa-R/blob/main/patch%201/Hi%20there!%20Its%20Biancaa%20here!%20(1).gif-->
 <img width=100% src=https://github.com/Biancaa-R/Biancaa-R/blob/main/patch%201/Its.gif> <!--The electronics one-->
 <!--img width=100% src=https://github.com/Biancaa-R/Biancaa-R/blob/main/patch%201/Black%20Red%20Modern%20Outer%20Space%20Presentation.gif-->
