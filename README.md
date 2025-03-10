@@ -1,5 +1,5 @@
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> " The best thing to hold onto in life is each other :)”
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> " Christ is my only one <3 ”
 <!-- “Hope lives in those who believe in it"-->
 <!--img width=100% src=https://github.com/Biancaa-R/Biancaa-R/blob/main/patch%201/Hi%20there!%20Its%20Biancaa%20here!%20(1).gif-->
 <img width=100% src=https://github.com/Biancaa-R/Biancaa-R/blob/main/patch%201/Its.gif> <!--The electronics one-->
@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 - 🎀 I like to celebrate life...
 - 🙆 I love to gaze mindlessly at white street lamps while travelling over a flyover at night 
 - (❁´◡`❁)-->
-
+- ⚡ Fun fact: Take a walk in the park when you feel down, There are so many things thats gonna lift you up...
+  
 <!--<img src='https://github-readme-stats.vercel.app/api?username=Biancaa-R&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />-->
 
 <!--[![Biancaa's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=Biancaa-R&theme=xcode)](https://git.io/Biancaa-R)-->
