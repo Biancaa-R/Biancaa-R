@@ -3,8 +3,8 @@
 <!--" For the Spirit God gave us does not make us timid, but gives us power,<3 and self-discipline ”-->
 <!-- “Hope lives in those who believe in it"-->
 <!--img width=100% src=https://github.com/Biancaa-R/Biancaa-R/blob/main/patch%201/Hi%20there!%20Its%20Biancaa%20here!%20(1).gif-->
-<!--img width=100% src=https://github.com/Biancaa-R/Biancaa-R/blob/main/patch%201/Its.gif--> <!--The electronics one-->
-<img width=100% src=https://github.com/Biancaa-R/Biancaa-R/blob/main/patch%201/Black%20Red%20Modern%20Outer%20Space%20Presentation.gif>
+<img width=100% src=https://github.com/Biancaa-R/Biancaa-R/blob/main/patch%201/Its.gif> <!--The electronics one-->
+<!--img width=100% src=https://github.com/Biancaa-R/Biancaa-R/blob/main/patch%201/Black%20Red%20Modern%20Outer%20Space%20Presentation.gif>--
 <!--### Hi there I am Biancaa.R <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">-->
 <!--img width=100% src=https://github.com/Biancaa-R/Biancaa-R/blob/main/patch%201/Throwback.gif-->
 <!--img width=100% src= https://github.com/Biancaa-R/Biancaa-R/blob/main/patch%201/Travel%20Goals.gif-->
